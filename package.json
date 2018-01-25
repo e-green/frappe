@@ -27,7 +27,7 @@
     "babel-preset-env": "^1.6.0",
     "babel-preset-minify": "^0.2.0",
     "chokidar": "^1.7.0",
-    "chromedriver": "^2.32.3",
+    "chromedriver-multi": "^1.0.0",
     "less": "^2.7.2",
     "nightwatch": "^0.9.16"
   }
